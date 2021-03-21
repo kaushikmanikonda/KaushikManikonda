@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Kaushik Manikonda!
-### I am an Aggie, a Machine Learning Researcher, an Industrial Enginner, a Petroleum Engineer, an Astrophysicist, and a Data Scientist all in one.
+### I am an Aggie, a Machine Learning Researcher, an Industrial Engineer, a Petroleum Engineer, an Astrophysicist, and a Data Scientist all in one.
 ### I am currently learning and applying machine learning algorithms/techniques to solve well control problems in offshore oil/gas/geothermal drilling.
 ### So, most of my repositories are related to machine learning, python, R, and Data Analysis.
 ### An Aggie does not lie, cheat, or steal, or tolerate those who do!
